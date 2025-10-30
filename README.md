@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="nagios-core-installation-on-ubuntu-server-lts">Nagios Core Installation on Ubuntu Server LTS</h1>
 <p><strong>Author:</strong> Zakaria Farhati<br>
 <strong>Date:</strong> October 2025</p>
